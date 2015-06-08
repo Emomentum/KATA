@@ -23,8 +23,6 @@
  </div><!-- end of col-md-4-->
 </div><!-- end of header-->
 
-
-<div id="nav">
 <div id="navigation" class="navbar navigation">
 
 <ul class="nav nav-pills">
@@ -37,9 +35,9 @@
 <li><a href="#">Forum</a></li>
 </ul>
 
-</div> <!-- end of container-->
 
 </div> <!-- end of Navigation-->
+
 <div id="bigImage" class="bigimage>
 
 <img src="https://sites.google.com/site/kataintranet/img.gif" class="image" /><br />
