@@ -1,5 +1,9 @@
 body{
-	background-image: url('https://raw.githubusercontent.com/Emomentum/KATA/master/bg.jpg');
+	background-image: url('https://sites.google.com/site/kataintranet/config/bg.jpg.1433750640107.jpg');
+	
+    background-repeat: repeat-x;
+	
+    background-repeat: repeat-y;
 	}
 .header
 	{
