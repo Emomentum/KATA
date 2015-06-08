@@ -2,15 +2,17 @@
 <Module> 
 <ModulePrefs title="navbar" height="100px" /> 
 <Content type="html"><![CDATA[
+
 <head>
-<link rel="stylesheet" href="https://sites.google.com/site/kataintranet/bootstrap.min.css" type="text/css">
-<link rel="stylesheet" href="https://sites.google.com/site/kataintranet/styles.css" type="text/css">
+<link rel="stylesheet" href="bootstrap-3.3.2-dist/css/bootstrap.min.css" type="text/css">
+<link rel="stylesheet" href="styles.css" type="text/css">
 </head>
 <body>
 
 <div id="header" class="header">
-
-<div class="col-md-9 "><img src="https://sites.google.com/site/kataintranet/logo.jpg" /></div><!-- end of col-md-4-->
+<div class="container">
+<div class="row">
+<div class="col-md-9 "><img src="logo.jpg" /></div><!-- end of col-md-4-->
 <div class="col-md-3 "> 
 <form class="navbar-form" role="search">
           <div class="input-group">
@@ -21,13 +23,20 @@
           </div>
         </form>
  </div><!-- end of col-md-4-->
+</div> <!-- end of row-->
+</div> <!-- end of container-->
 </div><!-- end of header-->
 
+
+<div id="nav">
+<div class="container">
+<div class="row">
+<div class="col-md-12">
 <div id="navigation" class="navbar navigation">
 
 <ul class="nav nav-pills">
-<li><a href="https://sites.google.com/site/kataintranet/">Home</a></li>
-<li><a href="https://sites.google.com/site/kataintranet/document-center">Document Center</a></li>
+<li><a href="#">Home</a></li>
+<li><a href="#">Document Center</a></li>
 <li><a href="#">Leave Application</a></li>
 <li><a href="#">Social Hub</a></li>
 <li><a href="#">Gallery</a></li>
@@ -35,22 +44,40 @@
 <li><a href="#">Forum</a></li>
 </ul>
 
+</div> <!-- end of Navigation-->
+</div> <!-- end of col-md-12-->
+</div> <!-- end of row-->
+</div> <!-- end of container-->
 
 </div> <!-- end of Navigation-->
-
 <div id="bigImage" class="bigimage">
+<div class="container">
+<div class="row">
+<div class="col-md-12">
 
-<img src="https://sites.google.com/site/kataintranet/img.gif" class="image" /><br />
 
+<img src="img.gif" class="image" /><br />
+
+</div><!-- end of col-md-12-->
+</div> <!-- end of row-->
+</div> <!-- end of container-->
 </div><!-- end of bigImage-->
 
 
 <div id="breadcrum">
 
+<div class="container">
+<div class="row">
+<div class="col-md-12">
+
 <ul class="breadcrumb">
 You are here>>
 <li>Home/</li>
 
+</div> <!-- end of col-md-12-->
+</div> <!-- end of row-->
+</div> <!-- end of container-->
 </div>
+
 ]]></Content> 
 </Module>
