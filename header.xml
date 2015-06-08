@@ -11,7 +11,6 @@
 <body>
 
 <div id="header" class="header">
-<div class="container">
 <div class="row">
 <div class="col-md-9 "><img src="https://sites.google.com/site/kataintranet/logo.jpg" /></div><!-- end of col-md-4-->
 <div class="col-md-3 "> 
@@ -25,12 +24,10 @@
         </form>
  </div><!-- end of col-md-4-->
 </div> <!-- end of row-->
-</div> <!-- end of container-->
 </div><!-- end of header-->
 
 
 <div id="nav">
-<div class="container">
 <div class="row">
 <div class="col-md-12">
 <div id="navigation" class="navbar navigation">
@@ -48,11 +45,9 @@
 </div> <!-- end of Navigation-->
 </div> <!-- end of col-md-12-->
 </div> <!-- end of row-->
-</div> <!-- end of container-->
 
 </div> <!-- end of Navigation-->
 <div id="bigImage" class="bigimage">
-<div class="container">
 <div class="row">
 <div class="col-md-12">
 
@@ -61,13 +56,11 @@
 
 </div><!-- end of col-md-12-->
 </div> <!-- end of row-->
-</div> <!-- end of container-->
 </div><!-- end of bigImage-->
 
 
 <div id="breadcrum">
 
-<div class="container">
 <div class="row">
 <div class="col-md-12">
 
@@ -77,7 +70,6 @@ You are here>>
 
 </div> <!-- end of col-md-12-->
 </div> <!-- end of row-->
-</div> <!-- end of container-->
 </div>
 
 
