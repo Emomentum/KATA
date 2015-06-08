@@ -25,8 +25,6 @@
 
 
 <div id="nav">
-<div class="container">
-<div class="row">
 <div class="col-md-12">
 <div id="navigation" class="navbar navigation">
 
@@ -71,8 +69,6 @@ You are here>>
 <li>Home/</li>
 
 </div> <!-- end of col-md-12-->
-</div> <!-- end of row-->
-</div> <!-- end of container-->
 </div>
 ]]></Content> 
 </Module>
