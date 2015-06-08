@@ -2,6 +2,12 @@
 <Module> 
 <ModulePrefs title="navbar" height="100px" /> 
 <Content type="html"><![CDATA[
+<html>
+<head>
+<link rel="stylesheet" href="https://sites.google.com/site/kataintranet/bootstrap.min.css" type="text/css">
+<link rel="stylesheet" href="https://sites.google.com/site/kataintranet/styles.css" type="text/css">
+</head>
+
 <div class="col-md-4">
 
  <div class="panel panel-default">
