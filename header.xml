@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+<Module> 
+<ModulePrefs title="navbar" height="100px" /> 
+<Content type="html"><![CDATA[
+<head>
+<link rel="stylesheet" href="https://sites.google.com/site/kataintranet/bootstrap.min.css" type="text/css">
+<link rel="stylesheet" href="https://sites.google.com/site/kataintranet/styles.css" type="text/css">
+</head>
+<body>
+
+<div id="header" class="header">
+<div class="container">
+<div class="row">
+<div class="col-md-9 "><img src="https://sites.google.com/site/kataintranet/logo.jpg" /></div><!-- end of col-md-4-->
+<div class="col-md-3 "> 
+<form class="navbar-form" role="search">
+          <div class="input-group">
+            <input type="text" class="form-control" placeholder="Search" name="srch-term" id="srch-term">
+            <div class="input-group-btn">
+              <button class="btn btn-default" type="submit"><span class="glyphicon glyphicon-search"></span></button>
+            </div>
+          </div>
+        </form>
+ </div><!-- end of col-md-4-->
+</div> <!-- end of row-->
+</div> <!-- end of container-->
+</div><!-- end of header-->
+
+
+<div id="nav">
+<div class="container">
+<div class="row">
+<div class="col-md-12">
+<div id="navigation" class="navbar navigation">
+
+<ul class="nav nav-pills">
+<li><a href="#">Home</a></li>
+<li><a href="#">Document Center</a></li>
+<li><a href="#">Leave Application</a></li>
+<li><a href="#">Social Hub</a></li>
+<li><a href="#">Gallery</a></li>
+<li><a href="#">About Us</a></li>
+<li><a href="#">Forum</a></li>
+</ul>
+
+</div> <!-- end of Navigation-->
+</div> <!-- end of col-md-12-->
+</div> <!-- end of row-->
+</div> <!-- end of container-->
+
+</div> <!-- end of Navigation-->
+<div id="bigImage" class="bigimage">
+<div class="container">
+<div class="row">
+<div class="col-md-12">
+
+
+<img src="https://sites.google.com/site/kataintranet/img.gif" class="image" /><br />
+
+</div><!-- end of col-md-12-->
+</div> <!-- end of row-->
+</div> <!-- end of container-->
+</div><!-- end of bigImage-->
+
+
+<div id="breadcrum">
+
+<div class="container">
+<div class="row">
+<div class="col-md-12">
+
+<ul class="breadcrumb">
+You are here>>
+<li>Home/</li>
+
+</div> <!-- end of col-md-12-->
+</div> <!-- end of row-->
+</div> <!-- end of container-->
+</div>
+]]></Content> 
+</Module>
