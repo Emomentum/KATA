@@ -3,16 +3,17 @@
 <ModulePrefs title="navbar" height="100px" /> 
 <Content type="html"><![CDATA[
 
+<html>
 <head>
-<link rel="stylesheet" href="bootstrap-3.3.2-dist/css/bootstrap.min.css" type="text/css">
-<link rel="stylesheet" href="styles.css" type="text/css">
+<link rel="stylesheet" href="https://sites.google.com/site/kataintranet/bootstrap.min.css" type="text/css">
+<link rel="stylesheet" href="https://sites.google.com/site/kataintranet/styles.css" type="text/css">
 </head>
 <body>
 
 <div id="header" class="header">
 <div class="container">
 <div class="row">
-<div class="col-md-9 "><img src="logo.jpg" /></div><!-- end of col-md-4-->
+<div class="col-md-9 "><img src="https://sites.google.com/site/kataintranet/logo.jpg" /></div><!-- end of col-md-4-->
 <div class="col-md-3 "> 
 <form class="navbar-form" role="search">
           <div class="input-group">
@@ -56,7 +57,7 @@
 <div class="col-md-12">
 
 
-<img src="img.gif" class="image" /><br />
+<img src="https://sites.google.com/site/kataintranet/img.gif" class="image" /><br />
 
 </div><!-- end of col-md-12-->
 </div> <!-- end of row-->
@@ -78,6 +79,7 @@ You are here>>
 </div> <!-- end of row-->
 </div> <!-- end of container-->
 </div>
+
 
 ]]></Content> 
 </Module>
