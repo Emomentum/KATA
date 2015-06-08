@@ -29,7 +29,6 @@
 
 <div id="nav">
 <div class="row">
-<div class="col-md-12">
 <div id="navigation" class="navbar navigation">
 
 <ul class="nav nav-pills">
@@ -43,18 +42,15 @@
 </ul>
 
 </div> <!-- end of Navigation-->
-</div> <!-- end of col-md-12-->
 </div> <!-- end of row-->
 
 </div> <!-- end of Navigation-->
 <div id="bigImage" class="bigimage">
 <div class="row">
-<div class="col-md-12">
 
 
 <img src="https://sites.google.com/site/kataintranet/img.gif" class="image" /><br />
 
-</div><!-- end of col-md-12-->
 </div> <!-- end of row-->
 </div><!-- end of bigImage-->
 
@@ -62,13 +58,11 @@
 <div id="breadcrum">
 
 <div class="row">
-<div class="col-md-12">
 
 <ul class="breadcrumb">
 You are here>>
 <li>Home/</li>
 
-</div> <!-- end of col-md-12-->
 </div> <!-- end of row-->
 </div>
 
