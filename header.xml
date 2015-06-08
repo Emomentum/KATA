@@ -9,8 +9,7 @@
 <body>
 
 <div id="header" class="header">
-<div class="container">
-<div class="row">
+
 <div class="col-md-9 "><img src="https://sites.google.com/site/kataintranet/logo.jpg" /></div><!-- end of col-md-4-->
 <div class="col-md-3 "> 
 <form class="navbar-form" role="search">
@@ -22,8 +21,6 @@
           </div>
         </form>
  </div><!-- end of col-md-4-->
-</div> <!-- end of row-->
-</div> <!-- end of container-->
 </div><!-- end of header-->
 
 
