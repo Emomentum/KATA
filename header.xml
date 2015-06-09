@@ -8,6 +8,7 @@
 <link rel="stylesheet" href="https://sites.google.com/site/kataintranet/bootstrap.min.css" type="text/css">
 <link rel="stylesheet" href="https://sites.google.com/site/kataintranet/styles.css" type="text/css">
 </head>
+<body >
 
 <div id="header" class="header">
 <div class="row">
@@ -53,6 +54,6 @@
 </div> <!-- end of row-->
 </div><!-- end of bigImage-->
 
-
+</body>
 ]]></Content> 
 </Module>
