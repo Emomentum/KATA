@@ -26,13 +26,10 @@ body
 	margin-bottom: 10px;
 	min-height:40px;
 	}
-.nav
-	{
-	padding-left: 14px;
-	}
 ul.nav
 	{
 	background-color:#E7E7E7;
+	padding-left: 14px;
 	}
 .breadcrumb
 	{
