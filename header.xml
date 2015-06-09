@@ -32,13 +32,13 @@
 <div id="navigation" class="navbar navigation">
 
 <ul class="nav nav-pills">
-<li><a href="#">Home</a></li>
-<li><a href="#">Document Center</a></li>
-<li><a href="#">Leave Application</a></li>
-<li><a href="#">Social Hub</a></li>
-<li><a href="#">Gallery</a></li>
-<li><a href="#">About Us</a></li>
-<li><a href="#">Forum</a></li>
+<li><a href="#">HOME</a></li>
+<li><a href="#">DOCUMENT CENTER</a></li>
+<li><a href="#">LEAVE APPLICATION</a></li>
+<li><a href="#">SOCIAL HUB</a></li>
+<li><a href="#">GALLERY</a></li>
+<li><a href="#">ABOUT US</a></li>
+<li><a href="#">FORUM</a></li>
 </ul>
 
 </div> <!-- end of Navigation-->
