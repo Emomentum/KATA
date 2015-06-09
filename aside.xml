@@ -7,8 +7,8 @@
 <link rel="stylesheet" href="https://sites.google.com/site/kataintranet/bootstrap.min.css" type="text/css">
 <link rel="stylesheet" href="https://sites.google.com/site/kataintranet/styles.css" type="text/css">
 </head>
-
-<div class="col-md-4" style="background-color: transparent;">
+<body style="background-color: transparent;">
+<div class="col-md-4">
 
  <div class="panel panel-default">
                         <div class="panel-heading">
