@@ -8,7 +8,6 @@
 <link rel="stylesheet" href="https://sites.google.com/site/kataintranet/bootstrap.min.css" type="text/css">
 <link rel="stylesheet" href="https://sites.google.com/site/kataintranet/styles.css" type="text/css">
 </head>
-<body style="background-color: transparent;">
 
 <div id="header" class="header">
 <div class="row">
@@ -37,16 +36,7 @@
 <li><a href="#">Leave Application</a></li>
 <li><a href="#">Social Hub</a></li>
 <li><a href="#">Gallery</a></li>
-<li><a href="#">About Us</a>
-<ul class="nav nav-pills">
-<li><a href="#">Home</a></li>
-<li><a href="#">Document Center</a></li>
-<li><a href="#">Leave Application</a></li>
-<li><a href="#">Social Hub</a></li>
-<li><a href="#">Gallery</a></li>
 <li><a href="#">About Us</a></li>
-<li><a href="#">Forum</a></li>
-</ul></li>
 <li><a href="#">Forum</a></li>
 </ul>
 
