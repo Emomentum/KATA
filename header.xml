@@ -3,17 +3,17 @@
 <ModulePrefs title="navbar" height="100px" /> 
 <Content type="html"><![CDATA[
 
-<html>
+
 <head>
-<link rel="stylesheet" href="https://sites.google.com/site/kataintranet/bootstrap.min.css" type="text/css">
+<link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap.min.css" rel="stylesheet">
 <link rel="stylesheet" href="https://sites.google.com/site/kataintranet/styles.css" type="text/css">
 </head>
-<body style="background-color: transparent;">
+
 
 <div id="header" class="header">
-<div class="row">
-<div class="col-md-9 "><img src="https://sites.google.com/site/kataintranet/logo.jpg" /></div><!-- end of col-md-4-->
-<div class="col-md-3 "> 
+
+<div class="col-md-9 " style="padding:0px"><img src="https://sites.google.com/site/kataintranet/logo.jpg" /></div><!-- end of col-md-4-->
+<div class="col-md-3 " style="padding:0px"> 
 <form class="navbar-form" role="search">
           <div class="input-group">
             <input type="text" class="form-control" placeholder="Search" name="srch-term" id="srch-term">
@@ -23,37 +23,25 @@
           </div>
         </form>
  </div><!-- end of col-md-4-->
-</div> <!-- end of row-->
 </div><!-- end of header-->
 
 
 <div id="nav">
-<div class="row">
+<div class="col-md-12" style="padding:0px">
 <div id="navigation" class="navbar navigation">
 
 <ul class="nav nav-pills">
-<li><a href="#">HOME</a></li>
-<li><a href="#">DOCUMENT CENTER</a></li>
-<li><a href="#">LEAVE APPLICATION</a></li>
-<li><a href="#">SOCIAL HUB</a></li>
-<li><a href="#">GALLERY</a></li>
-<li><a href="#">ABOUT US</a></li>
-<li><a href="#">FORUM</a></li>
+<li><a href="https://sites.google.com/site/kataintranet/">Home</a></li>
+<li><a href="https://sites.google.com/site/kataintranet/document-center-1">Document Center</a></li>
+<li><a href="#">Leave Application</a></li>
+<li><a href="javascript:window.parent.location=&#39;https://sites.google.com/site/kataintranet/social&#39;;_top'">Social Hub</a></li>
+<li><a href="https://sites.google.com/site/kataintranet/gallery-1">Gallery</a></li>
+<li><a href="#">About Us</a></li>
+<li><a href="#">Forum</a></li>
 </ul>
 
 </div> <!-- end of Navigation-->
-</div> <!-- end of row-->
-
+</div> <!-- end of col-md-12-->
 </div> <!-- end of Navigation-->
-<div id="bigImage" class="bigimage">
-<div class="row">
-
-
-<img src="https://sites.google.com/site/kataintranet/img.gif" class="image" /><br />
-
-</div> <!-- end of row-->
-</div><!-- end of bigImage-->
-
-</body>
 ]]></Content> 
 </Module>
