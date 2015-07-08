@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+<Module> 
+<ModulePrefs title="navbar" height="100px" /> 
+<Content type="html"><![CDATA[
+
+
+<head>
+<link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap.min.css" rel="stylesheet">
+<link rel="stylesheet" href="https://sites.google.com/site/kataintranet/styles.css" type="text/css">
+</head>
+
+
+<div id="header" class="header">
+
+<div class="col-md-9 " style="padding:0px"><img src="https://sites.google.com/site/kataintranet/logo.jpg" /></div><!-- end of col-md-4-->
+<div class="col-md-3 " style="padding:0px"> 
+<form class="navbar-form" role="search">
+          <div class="input-group">
+            <input type="text" class="form-control" placeholder="Search" name="srch-term" id="srch-term">
+            <div class="input-group-btn">
+              <button class="btn btn-default" type="submit"><span class="glyphicon glyphicon-search"></span></button>
+            </div>
+          </div>
+        </form>
+ </div><!-- end of col-md-4-->
+</div><!-- end of header-->
+
+
+<div id="nav">
+<div class="col-md-12" style="padding:0px">
+<div id="navigation" class="navbar navigation">
+
+<ul class="nav nav-pills">
+<li><a href="javascript:window.parent.location=&#39;https://sites.google.com/site/kataintranet&#39;;_top" style = "background-color:#049CC5;color:#fff;">Home</a></li>
+<li><a href="javascript:window.parent.location=&#39;https://sites.google.com/site/kataintranet/document-center-1&#39;;_top">Document Center</a></li>
+<li><a href="javascript:window.parent.location=&#39;https://sites.google.com/site/kataintranet/leave&#39;;_top">Leave Application</a></li>
+<li><a href="javascript:window.parent.location=&#39;https://sites.google.com/site/kataintranet/social&#39;;_top">Social Hub</a></li>
+<li><a href="javascript:window.parent.location=&#39;https://sites.google.com/site/kataintranet/gallery-1&#39;;_top">Gallery</a></li>
+<li><a href="javascript:window.parent.location=&#39;https://sites.google.com/site/kataintranet/about-us&#39;;_top">About Us</a></li>
+<li><a href="javascript:window.parent.location=&#39;https://sites.google.com/site/kataintranet/forum&#39;;_top">Forum</a></li>
+</ul>
+
+</div> <!-- end of Navigation-->
+</div> <!-- end of col-md-12-->
+</div> <!-- end of Navigation-->
+<img src = "https://raw.githubusercontent.com/Emomentum/KATA/master/img.gif"/>
+<div style="font-weight: bold;">
+<p>You are here>><a href="#" style="color: #000;text-decoration: none;">Forum</a></p>
+
+</div>
+]]></Content> 
+</Module>
