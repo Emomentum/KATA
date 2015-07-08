@@ -31,9 +31,9 @@
 <div id="navigation" class="navbar navigation">
 
 <ul class="nav nav-pills">
-<li><a href="javascript:window.parent.location=&#39;https://sites.google.com/site/kataintranet&#39;;_top" style = "background-color:#049CC5;color:#fff;">Leave Application</a></li>
+<li><a href="javascript:window.parent.location=&#39;https://sites.google.com/site/kataintranet&#39;;_top">Home</a></li>
 <li><a href="javascript:window.parent.location=&#39;https://sites.google.com/site/kataintranet/document-center-1&#39;;_top">Document Center</a></li>
-<li><a href="javascript:window.parent.location=&#39;https://sites.google.com/site/kataintranet/leave&#39;;_top">Leave Application</a></li>
+<li><a href="javascript:window.parent.location=&#39;https://sites.google.com/site/kataintranet/leave&#39;;_top" style = "background-color:#049CC5;color:#fff;">Leave Application</a></li>
 <li><a href="javascript:window.parent.location=&#39;https://sites.google.com/site/kataintranet/social&#39;;_top">Social Hub</a></li>
 <li><a href="javascript:window.parent.location=&#39;https://sites.google.com/site/kataintranet/gallery-1&#39;;_top">Gallery</a></li>
 <li><a href="javascript:window.parent.location=&#39;https://sites.google.com/site/kataintranet/about-us&#39;;_top">About Us</a></li>
