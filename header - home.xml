@@ -45,7 +45,7 @@
 </div> <!-- end of Navigation-->
 <img src = "https://raw.githubusercontent.com/Emomentum/KATA/master/img.gif"/>
 <div style="font-weight: bold;">
-<br><p>You are here>><a href="#" style="color: #000;text-decoration: none;background-color:transparent;">Home</a></p>
+<br><p>You are here>><a href="#" style="color:none;text-decoration: none;background-color:transparent;">Home</a></p>
 
 </div>
 ]]></Content> 
