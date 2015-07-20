@@ -9,9 +9,9 @@
 <link rel="stylesheet" href="https://raw.githubusercontent.com/Emomentum/KATA/master/styles.css" type="text/css">
 </head>
 
-div id="header" class="header">
+<div id="header" class="header">
 
-<div class="col-md-9 " style="padding:0px"><img src="https://sites.google.com/site/kataintranet/logo.jpg" /></div><!-- end of col-md-4-->
+<div class="col-md-9 " style="padding:0px"><img src="https://raw.githubusercontent.com/Emomentum/KATA/master/logo.jpg" /></div><!-- end of col-md-4-->
 <div class="col-md-3 " style="padding:0px"> 
 <form class="navbar-form" role="search">
           <div class="input-group">
