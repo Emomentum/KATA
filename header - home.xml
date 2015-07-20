@@ -8,7 +8,7 @@
 <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap.min.css" rel="stylesheet">
 <link rel="stylesheet" href="https://raw.githubusercontent.com/Emomentum/KATA/master/styles.css" type="text/css">
 </head>
-
+<body style="  background-color: transparent;">
 <div id="header" class="header">
 
 <div class="col-md-9 " style="padding:0px"><img src="https://raw.githubusercontent.com/Emomentum/KATA/master/logo.jpg" /></div><!-- end of col-md-4-->
@@ -46,5 +46,6 @@
 <br><p>You are here>><a href="#" style="color:#000;text-decoration: none;background-color:transparent;">Home</a></p>
 
 </div>
+</body>
 ]]></Content> 
 </Module>
