@@ -6,13 +6,13 @@
 
 <head>
 <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap.min.css" rel="stylesheet">
-<link rel="stylesheet" href="https://sites.google.com/site/kataintranet/styles.css" type="text/css">
+<link rel="stylesheet" href="https://sites.google.com/a/katakenya.org/kata-intranet/styles.css" type="text/css">
 </head>
 
-
+<body style="  background-color: transparent;">
 <div id="header" class="header">
 
-<div class="col-md-9 " style="padding:0px"><img src="https://sites.google.com/site/kataintranet/logo.jpg" /></div><!-- end of col-md-4-->
+<div class="col-md-9 " style="padding:0px"><img src="https://raw.githubusercontent.com/Emomentum/KATA/master/logo.jpg" /></div><!-- end of col-md-4-->
 <div class="col-md-3 " style="padding:0px"> 
 <form class="navbar-form" role="search">
           <div class="input-group">
@@ -31,13 +31,13 @@
 <div id="navigation" class="navbar navigation">
 
 <ul class="nav nav-pills">
-<li><a href="javascript:window.parent.location=&#39;https://sites.google.com/site/kataintranet&#39;;_top">Home</a></li>
-<li><a href="javascript:window.parent.location=&#39;https://sites.google.com/site/kataintranet/document-center-1&#39;;_top">Document Center</a></li>
-<li><a href="javascript:window.parent.location=&#39;https://sites.google.com/site/kataintranet/leave&#39;;_top">Leave Application</a></li>
-<li><a href="javascript:window.parent.location=&#39;https://sites.google.com/site/kataintranet/social&#39;;_top" style = "background-color:#049CC5;color:#fff;">Social Hub</a></li>
-<li><a href="javascript:window.parent.location=&#39;https://sites.google.com/site/kataintranet/gallery-1&#39;;_top">Gallery</a></li>
-<li><a href="javascript:window.parent.location=&#39;https://sites.google.com/site/kataintranet/about-us&#39;;_top">About Us</a></li>
-<li><a href="javascript:window.parent.location=&#39;https://sites.google.com/site/kataintranet/forum&#39;;_top">Forum</a></li>
+<li><a href="javascript:window.parent.location=&#39;https://sites.google.com/a/katakenya.org/kata-intranet&#39;;_top">Home</a></li>
+<li><a href="javascript:window.parent.location=&#39;https://sites.google.com/a/katakenya.org/kata-intranet/document&#39;;_top">Document Center</a></li>
+<li><a href="javascript:window.parent.location=&#39;https://sites.google.com/a/katakenya.org/kata-intranet/leave&#39;;_top">Leave Application</a></li>
+<li><a href="javascript:window.parent.location=&#39;https://sites.google.com/a/katakenya.org/kata-intranet/social&#39;;_top" style = "background-color:#049CC5;color:#fff;">Social Hub</a></li>
+<li><a href="javascript:window.parent.location=&#39;https://sites.google.com/a/katakenya.org/kata-intranet/gallery-1&#39;;_top">Gallery</a></li>
+<li><a href="javascript:window.parent.location=&#39;https://sites.google.com/a/katakenya.org/kata-intranet/about&#39;;_top" >About Us</a></li>
+<li><a href="javascript:window.parent.location=&#39;https://sites.google.com/a/katakenya.org/kata-intranet/forum&#39;;_top">Forum</a></li>
 </ul>
 
 </div> <!-- end of Navigation-->
@@ -48,5 +48,6 @@
 <br><p>You are here>><a href="#" style="color: #000;text-decoration: none;">Social Hub</a></p>
 
 </div>
+</body>
 ]]></Content> 
 </Module>
