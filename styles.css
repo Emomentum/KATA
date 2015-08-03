@@ -1,9 +1,19 @@
-
+.btn-default
+	{
+	font-size:20px;
+	}
+.logo
+	{
+	padding-bottom:20px;
+	}
 .header
 	{
 	margin-top:10px;
 	margin-bottom:15px;
 	}
+.nav-pills>li>a {
+    border-radius: 0px;
+}
 .panel-default > .panel-heading
 	{
 	background-color: #059EC8;
