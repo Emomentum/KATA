@@ -34,7 +34,7 @@
 <li><a href="javascript:window.parent.location=&#39;https://sites.google.com/a/katakenya.org/kata-intranet&#39;;_top">Home</a></li>
 <li><a href="javascript:window.parent.location=&#39;https://sites.google.com/a/katakenya.org/kata-intranet/document&#39;;_top">Document Center</a></li>
 <li><a href="javascript:window.parent.location=&#39;https://sites.google.com/a/katakenya.org/kata-intranet/leave&#39;;_top">Leave Application</a></li>
-<li><a href="javascript:window.parent.location=&#39;https://sites.google.com/a/katakenya.org/kata-intranet/social&#39;;_top" style = "background-color:#049CC5;color:#fff;">Social Hub</a></li>
+<li><a href="javascript:window.parent.location=&#39;https://sites.google.com/a/katakenya.org/kata-intranet/social&#39;;_top" style = "background-color:#049CC5;color:#fff;" style="display:none">Social Hub</a></li>
 <li><a href="javascript:window.parent.location=&#39;https://sites.google.com/a/katakenya.org/kata-intranet/gallery-1&#39;;_top">Gallery</a></li>
 <li><a href="javascript:window.parent.location=&#39;https://sites.google.com/a/katakenya.org/kata-intranet/about&#39;;_top" >About Us</a></li>
 <li><a href="javascript:window.parent.location=&#39;https://sites.google.com/a/katakenya.org/kata-intranet/forum&#39;;_top">Forum</a></li>
